@@ -1,0 +1,13 @@
+html, body{
+    min-height: 100%;
+    height:100%;
+    background-color: #222;
+}
+
+.single-blog{
+    transition: 0.5s;
+}
+
+.single-blog:hover{
+    background-color: #ddd;
+}
